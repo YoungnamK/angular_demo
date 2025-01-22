@@ -1,0 +1,32 @@
+header {
+  display: flex;
+  padding-inline: 16px;
+  padding-block: 8px;
+  background-color: #333;
+  color: white;
+  align-items: center;
+  justify-content: space-between;
+}
+header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+header nav ul {
+  list-style: none;
+}
+header nav ul li {
+  cursor: pointer;
+}
+header nav ul li:hover {
+  color: #777;
+}
+header nav > span {
+  cursor: pointer;
+}
+header nav > span:hover {
+  color: #777;
+}
+
+/*# sourceMappingURL=header.component.css.map */

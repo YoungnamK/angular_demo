@@ -1,0 +1,7 @@
+.todos__item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/*# sourceMappingURL=todos.component.css.map */
